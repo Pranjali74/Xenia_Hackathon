@@ -1,5 +1,0 @@
-{
-  "name": "SecureShield Content Distribution",
-  "description": "An enterprise-grade secure content distribution platform featuring role-based access control, dynamic watermarking, and signed-access viewers for videos and documents.",
-  "requestFramePermissions": []
-}
